@@ -1,0 +1,10 @@
+* huffman
+
+Huffman encoding/decoding of sequences in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/massung/huffman.git   |
+| commit  | 2047b0f  |
+| systems | huffman |
+|---------+-------------------------------------------|
+
